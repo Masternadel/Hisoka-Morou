@@ -10,16 +10,34 @@ const chalk = require('chalk')
 // Website Api
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
+nrtm: 'https://nurutomo.herokuapp.com',
+  xteam: 'https://api.xteam.xyz',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  bcil: 'https://75.119.137.248:21587',
+  neoxr: 'https://api.neoxr.eu.org/',
+  zeks: 'https://api.zeks.me',
+  gimez: 'https://masgimenz.my.id/',
+  melcanz: 'https://melcanz.com',
+  pencarikode: 'https://pencarikode.xyz',
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  restapi: 'https://x-restapi.herokuapp.com'
+}
+APIKeys = { // APIKey Here
+  // 'https://api.zeeoneofc.xyz': 'SLDNgBub'
+  'https://api.xteam.xyz': 'apikeyaine',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
+  'https://api.zeks.me': 'apikeyaine',
+  'https://pencarikode.xyz': 'pais',
+  'https://melcanz.com': 'ZZBk7EBb',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
+  'https://x-restapi.herokuapp.com': 'BETA'
 }
 
-// Apikey Website Api
-global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
-}
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
+global.owner = ['6288290336559','6288290336559','6288290336559','6288290336559']
+global.premium = ['6288290336559']
 global.packname = 'Hisoka Morrow'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
