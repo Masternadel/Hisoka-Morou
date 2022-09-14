@@ -21,6 +21,7 @@ nrtm: 'https://nurutomo.herokuapp.com',
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   restapi: 'https://x-restapi.herokuapp.com'
+https://botcahx-rest-api.herokuapp.com/docs
 }
 APIKeys = { // APIKey Here
   'https://api.zeeoneofc.xyz': 'SLDNgBub'
@@ -32,6 +33,7 @@ APIKeys = { // APIKey Here
   'https://melcanz.com': 'ZZBk7EBb',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://x-restapi.herokuapp.com': 'BETA'
+https://botcahx-rest-api.herokuapp.com/docs
 }
 
 
