@@ -23,7 +23,7 @@ nrtm: 'https://nurutomo.herokuapp.com',
   restapi: 'https://x-restapi.herokuapp.com'
 }
 APIKeys = { // APIKey Here
-  // 'https://api.zeeoneofc.xyz': 'SLDNgBub'
+  'https://api.zeeoneofc.xyz': 'SLDNgBub'
   'https://api.xteam.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
